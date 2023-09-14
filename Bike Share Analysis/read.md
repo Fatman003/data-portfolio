@@ -1,1 +1,1 @@
-Aalysis on some bike data 
+Analysis on some bike data 
